@@ -20,8 +20,8 @@
     "lib/**/*"
   ],
   "peerDependencies": {
-    "react": "^18.x",
-    "react-dom": "^18.x"
+    "react": "^18.x || ^19.x",
+    "react-dom": "^18.x || ^19.x"
   },
   "dependencies": {
     "lodash": "^4.17.21",
